@@ -13,7 +13,7 @@ export default function About() {
               <p className="mb-8 leading-relaxed">
               Currently working as a Lead Consultant in a MNC i am exploring new technologies, developing new solutions for various real time problems.
 As life adopting its digital version i am looking forward to invest my skills and grow further in industry.
-I am a CSE gradute with expertise in data structure, algorithm analysis, web & mobile app development.
+I am a CSE graduate with expertise in data structure, algorithm analysis, web & mobile app development.
 So far i have worked on mobile app, web app, IoT solutions in domain like Airlines, FinTech, Telecom and IOT.
 Also i have a big interest in machine learning, IoT, Data science, Automation.
               </p>
